@@ -34,6 +34,16 @@
       "name": "Sonny Carleone",
       "age": 1916,
       "id": 7
+    },
+    {
+      "name": "Edison",
+      "age": 32,
+      "id": 8
+    },
+    {
+      "name": "Einstein",
+      "age": 67,
+      "id": 9
     }
   ]
 }
